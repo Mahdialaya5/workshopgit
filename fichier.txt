@@ -1,1 +1,3 @@
 workshop git
+
+version 2
